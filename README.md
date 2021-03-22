@@ -6,9 +6,6 @@
 ![Profile views](https://gpvc.arturio.dev/cifertech)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=cifertech&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 <p align="left"> <a href="https://twitter.com/cifertech1" target="blank"><img src="https://img.shields.io/twitter/follow/cifertech1?logo=twitter&style=for-the-badge" alt="cifertech1" /></a> </p>
 
 - 🔭 I’m currently working on **IOT Project**
@@ -26,6 +23,11 @@
 - 📄 Know about my experiences [http://cifertech.net/my-resume/](http://cifertech.net/my-resume/)
 
 - ⚡ Fun fact **Earth is Not Flat**
+
+
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=cifertech)  
+
 
 
 <h3 align="left">Connect with me:</h3>
@@ -46,3 +48,4 @@
 
 ![Metrics](https://metrics.lecoq.io/cifertech?template=classic&config.timezone=Asia%2FTehran)
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=cifertech&theme=react-dark)  
