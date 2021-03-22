@@ -5,6 +5,8 @@
 
 ![Profile views](https://gpvc.arturio.dev/cifertech)
 
+![Metrics](https://metrics.lecoq.io/cifertech?template=classic&config.timezone=Asia%2FTehran)
+
 
 <p align="left"> <a href="https://twitter.com/cifertech1" target="blank"><img src="https://img.shields.io/twitter/follow/cifertech1?logo=twitter&style=for-the-badge" alt="cifertech1" /></a> </p>
 
@@ -26,8 +28,7 @@
 
 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=cifertech)  
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cifertech&theme=react)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 
 <h3 align="left">Connect with me:</h3>
@@ -45,7 +46,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cifertech&show_icons=true&theme=midnight-purple)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cifertech&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-
-![Metrics](https://metrics.lecoq.io/cifertech?template=classic&config.timezone=Asia%2FTehran)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=cifertech&theme=react-dark)  
