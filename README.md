@@ -1,5 +1,3 @@
-# CiferTech
-
 <h1 align="center">Hi 👋, I'm C1F3R</h1>
 <h3 align="center">A Embedded Sys Developer</h3>
 
@@ -45,7 +43,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cifertech&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=cifertech&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=cifertech&ryo-ma&title=Stars,Followers)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=cifertech&theme=react-dark)  
