@@ -4,6 +4,7 @@
 <h3 align="center">A Embedded Sys Developer</h3>
 
 
+
 <p align="left"> <a href="https://twitter.com/cifertech1" target="blank"><img src="https://img.shields.io/twitter/follow/cifertech1?logo=twitter&style=for-the-badge" alt="cifertech1" /></a> </p>
 
 - 🔭 I’m currently working on **IOT Project**
@@ -39,4 +40,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cifertech&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
+![Metrics](https://metrics.lecoq.io/cifertech?template=classic&config.timezone=Asia%2FTehran)
 
