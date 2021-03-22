@@ -3,6 +3,10 @@
 <h1 align="center">Hi 👋, I'm C1F3R</h1>
 <h3 align="center">A Embedded Sys Developer</h3>
 
+![Profile views](https://gpvc.arturio.dev/cifertech)
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=cifertech&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <p align="left"> <a href="https://twitter.com/cifertech1" target="blank"><img src="https://img.shields.io/twitter/follow/cifertech1?logo=twitter&style=for-the-badge" alt="cifertech1" /></a> </p>
