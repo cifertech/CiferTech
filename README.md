@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **IOT Project**
 
-- 🌱 I’m currently learning **CyberSecurity**
+- 🌱 I’m currently learning **CyberSecurity** & **Ai / ML**
 
 - 👨‍💻 All of my projects are available at [github.com/cifertech](github.com/cifertech)
 
