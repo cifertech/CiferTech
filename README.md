@@ -11,11 +11,7 @@
 
 - 📝 I regularly write articles on [http://cifertech.net/](http://cifertech.net/)
 
-- 💬 Ask me about **Anything =)**
-
 - 📫 How to reach me **CiferTech@gmail.com**
-
-- 📄 Know about my experiences [http://cifertech.net/my-resume/](http://cifertech.net/my-resume/)
 
 - ⚡ Fun fact **Earth is Not Flat**
 
