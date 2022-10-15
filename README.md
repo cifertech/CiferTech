@@ -14,18 +14,7 @@
 - 📫 How to reach me **CiferTech@gmail.com**
 
 - ⚡ Fun fact **Earth is Not Flat**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/cifertech1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="cifertech1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pedramgoharian" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pedramgoharian" height="30" width="40" /></a>
-<a href="https://instagram.com/cifertech" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="cifertech" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/cifertech" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="cifertech" height="30" width="40" /></a>
-<a href="https://discord.gg/CiferTech#1012" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="CiferTech#1012" height="30" width="40" /></a>
-</p>
-
-    
+ 
 <center>
     <table>
         <tr>
