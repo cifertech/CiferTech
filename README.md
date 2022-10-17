@@ -30,7 +30,7 @@
 
 ---
 
-## Github Trophies: :🏆️
+## Github Trophies: 🏆️
 
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=cifertech&theme=nord&hide_border=true&no-frame=true&row=1&column=7" alt="cifertech points"/>
