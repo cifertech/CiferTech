@@ -19,10 +19,10 @@
     <table>
         <tr>
             <td>
-                <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=cifertech&show_icons=true&theme=react&hide_border=true" />
+                <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=cifertech&show_icons=true&theme=react&hide_border=true" />
             </td>
             <td>
-                <img width="400px" align="left" src="http://github-readme-streak-stats.herokuapp.com?user=cifertech&theme=react&hide_border=true" />
+                <img width="400px" align="center" src="http://github-readme-streak-stats.herokuapp.com?user=cifertech&theme=react&hide_border=true" />
             </td>
         </tr>
     </table>
@@ -37,4 +37,4 @@
 </p>
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=cifertech&theme=react-dark)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=cifertech&theme=react-dark&hide_border=true)  
