@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm C1F3R</h1>
 <h3 align="center">A Embedded Sys Developer</h3>
 
-![Profile views](https://gpvc.arturio.dev/cifertech)
 
 - 🔭 I’m currently working on **IOT Project**
 
@@ -36,5 +35,3 @@
     <img src="https://github-profile-trophy.vercel.app/?username=cifertech&theme=nord&hide_border=true&no-frame=true&row=1&column=7" alt="cifertech points"/>
 </p>
 
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=cifertech&theme=react-dark&hide_border=true)  
