@@ -1,5 +1,5 @@
-<h1 align="center">I'M C1F3R</h1>
-<h4 align="center">a tech enthusiast passionate about Embedded Systems, Robotics, IoT, and PCB Design. I thrive on bringing ideas to life through smart devices, intelligent circuits, and innovative robotics.</h3>
+<h1 align="center">Hi👋🏻 I'M C1F3R</h1>
+<h4 align="center">a tech enthusiast passionate about Embedded Systems⚡, Robotics🤖, IoT📡 and PCB Design💾. I thrive on bringing ideas to life through smart devices, intelligent circuits, and innovative robotics.</h3>
 
 &nbsp;
 
@@ -11,7 +11,5 @@
 
 &nbsp;
  
--  💰 You can support my projects by Donating
-&nbsp;
+-  💰 You can support my projects by [Donating](https://paypal.me/cifertec@gmail.com)
 
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/cifertec@gmail.com) 
