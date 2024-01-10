@@ -9,7 +9,3 @@
 
 - 📫 How to reach me **CiferTech@gmail.com**
 
-&nbsp;
- 
--  💰 You can support my projects by [Donating](https://paypal.me/cifertec@gmail.com)
-
