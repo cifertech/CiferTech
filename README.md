@@ -1,5 +1,5 @@
-<h1 align="center">Hi👋🏻 I'M C1F3R</h1>
-<h4 align="center">a tech enthusiast passionate about Embedded Systems⚡, Robotics🤖, IoT📡 and PCB Design💾. I thrive on bringing ideas to life through smart devices, intelligent circuits, and innovative robotics.</h3>
+<h1 align="center">Hi👋🏻 I'M Cifer</h1>
+<h4 align="center">Ideas find and claim us; we are merely their vessels, not their architects.</h3>
 
 &nbsp;
 
