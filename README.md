@@ -9,17 +9,19 @@
   <a href="https://github.com/cifertech?tab=repositories" target="_blank" rel="noopener" title="View my GitHub projects">
     <img 
       alt="GitHub Projects" 
-      src="https://img.shields.io/badge/Projects-GitHub-0d1117?style=flat-square&logo=github&logoColor=darkorange&labelColor=grey&color=f97316" 
+      src="https://img.shields.io/badge/Projects-GitHub-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=grey&color=f97316" 
     />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="http://cifertech.net" target="_blank" rel="noopener" title="Read my articles on CiferTech.net">
     <img 
       alt="Blog" 
-      src="https://img.shields.io/badge/Articles-cifertech.net-0d1117?style=flat-square&logo=wordpress&logoColor=darkorange&labelColor=grey&color=f97316" 
+      src="https://img.shields.io/badge/Articles-cifertech.net-0d1117?style=flat-square&logo=wordpress&logoColor=white&labelColor=grey&color=f97316" 
     />
   </a>
 </p>
+
+
 
 <p align="center">
   📫 Reach me at: <strong>CiferTech@gmail.com</strong>
