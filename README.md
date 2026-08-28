@@ -13,7 +13,7 @@
 
 <h1 align="center" style="color:#00ff00; font-family:monospace;"></h1>
 
-> ⚠️ **Heads up!** These are <strong>personal projects</strong> — not polished products.
+> ⚠️ **Heads up!** These are <strong>personal projects</strong>, not polished products.
 > 
 > One person behind it all, not a company.  
 >  
