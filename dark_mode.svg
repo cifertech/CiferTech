@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="JetBrains Mono,Consolas,ui-monospace,monospace" width="985px" height="580px" font-size="16px">
+<style>
+@font-face {
+src: local('JetBrains Mono'), local('JetBrainsMono'), local('Consolas');
+font-family: 'JetBrains Mono';
+font-display: swap;
+}
+.key {fill: #F45C1C;}
+.value {fill: #f4f4f5;}
+.addColor {fill: #f4f4f5;}
+.delColor {fill: #F45C1C;}
+.cc {fill: #8e8e96;}
+.head {fill: #f4f4f5;}
+text, tspan {white-space: pre;}
+.ascii {font-size: 11px;}
+</style>
+<defs>
+<clipPath id="card"><rect width="985" height="580" rx="12"/></clipPath>
+<pattern id="dots" width="56" height="56" patternUnits="userSpaceOnUse">
+<path d="M0 28h56M28 0v56" fill="none" stroke="#ffffff" stroke-opacity="0.05" stroke-width="0.5"/>
+<circle cx="28" cy="28" r="1.15" fill="#F45C1C" fill-opacity="0.45"/>
+</pattern>
+<radialGradient id="glowTop" cx="50%" cy="50%" r="70%">
+<stop offset="0%" stop-color="#F45C1C" stop-opacity="0.16"/>
+<stop offset="68%" stop-color="#F45C1C" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="glowBot" cx="50%" cy="50%" r="70%">
+<stop offset="0%" stop-color="#F45C1C" stop-opacity="0.10"/>
+<stop offset="70%" stop-color="#F45C1C" stop-opacity="0"/>
+</radialGradient>
+<linearGradient id="scan" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#F45C1C" stop-opacity="0"/>
+<stop offset="45%" stop-color="#F45C1C" stop-opacity="0.025"/>
+<stop offset="50%" stop-color="#ffffff" stop-opacity="0.04"/>
+<stop offset="55%" stop-color="#F45C1C" stop-opacity="0.025"/>
+<stop offset="100%" stop-color="#F45C1C" stop-opacity="0"/>
+</linearGradient>
+<filter id="grain" x="0%" y="0%" width="100%" height="100%">
+<feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="4" stitchTiles="stitch"/>
+</filter>
+<filter id="logoGlow" x="-40%" y="-40%" width="180%" height="180%">
+<feGaussianBlur stdDeviation="2.4" result="b"/>
+<feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+</defs>
+<g clip-path="url(#card)">
+<rect width="985" height="580" fill="#080808"/>
+<ellipse cx="492" cy="-10" rx="420" ry="230" fill="url(#glowTop)">
+<animate attributeName="opacity" values="0.55;1;0.55" dur="7s" repeatCount="indefinite"/>
+</ellipse>
+<ellipse cx="860" cy="540" rx="260" ry="190" fill="url(#glowBot)">
+<animate attributeName="opacity" values="0.4;0.85;0.4" dur="9s" repeatCount="indefinite"/>
+</ellipse>
+<rect x="-80" y="-80" width="1145" height="840" fill="url(#dots)">
+<animateTransform attributeName="transform" type="translate" from="0 0" to="56 56" dur="72s" repeatCount="indefinite"/>
+</rect>
+<g opacity="0.45">
+<rect x="-80" y="-80" width="1145" height="840" fill="url(#dots)">
+<animateTransform attributeName="transform" type="translate" from="0 0" to="-56 -40" dur="96s" repeatCount="indefinite"/>
+</rect>
+</g>
+<rect width="985" height="140" fill="url(#scan)">
+<animate attributeName="y" values="-140;580" dur="10s" repeatCount="indefinite"/>
+</rect>
+<rect width="985" height="580" filter="url(#grain)" opacity="0.04"/>
+<g filter="url(#logoGlow)">
+<text x="16" y="158" class="key ascii" xml:space="preserve">
+<tspan x="16" y="158.0">                   .,,......,,,,,:::::.</tspan>
+<tspan x="16" y="169.0">                     .::;--=---;;:,,,,:;;;.</tspan>
+<tspan x="16" y="180.0">                 .;=++=;:,,,:,,,:;-==-::##,</tspan>
+<tspan x="16" y="191.0">   .,:::.       *@+,   .:-=; :+=-;:..,;-,        ,:;;:.</tspan>
+<tspan x="16" y="202.0">  .+@@@@@#;     .;:,=#@@@@@+ -@@@@@@%+:        =%@@@@%=</tspan>
+<tspan x="16" y="213.0">     :=%@@@+     ;#@@@@@@@@+ -@@@@@@@@@@+,    +@@@*;.</tspan>
+<tspan x="16" y="224.0">;;.    +@@@@#+.:%@@@@@@@@@@+ -@@@@@@@@@@@@+.=%@@@@-    ,-;</tspan>
+<tspan x="16" y="235.0">-@@#=;+@@@@@@++@@@@@@@@@@@@+ -@@@@@@@@@@@@@#-@@@@@@#=+%@@;</tspan>
+<tspan x="16" y="246.0"> ;%@@@@@@@@@+-@@@@@@@@@@@@@+ -@@@@@@@@@@@@@@#;@@@@@@@@@#:</tspan>
+<tspan x="16" y="257.0">   :=++=-+%@;@@@@@@@@@@@@@@+ -@@@@@@@@@@@@@@@+=%+;-+=;,</tspan>
+<tspan x="16" y="268.0">           .+@@@@@@@@@@@@@@+ -@@@@@@@@@@@@@@@@.</tspan>
+<tspan x="16" y="279.0">            #@@@@@@@@@@@@@@+ -@@@####%@@@@@@@@.</tspan>
+<tspan x="16" y="290.0">            *@@@@@@@@@@@@@@+ -@+.      .,;*@@@.</tspan>
+<tspan x="16" y="301.0">            -@@@@@@@@@@@@@@+ -@:           +@%</tspan>
+<tspan x="16" y="312.0">           ,;@@@@@@@%@@@@@@+ -@%.          *@*,,</tspan>
+<tspan x="16" y="323.0">    :-==-+%@;@@@@@+;=-=%@@@+ -@@%:        =@@-#@#--==-:</tspan>
+<tspan x="16" y="334.0">  =%@@@@@@@@+=@@@*.@@@#-+@@+ -@@@@*:    :*@@%;@@@@@@@@@%:</tspan>
+<tspan x="16" y="345.0"> +@@%++%@@@@@=*@@@:+@@@@+;#* -@%++#@@*#%@@@@-%@@@@@*-+%@@;</tspan>
+<tspan x="16" y="356.0"> *=:    #@@@@+ :+%%;-%@@@%-: :+-*#=-#@@@%*-.:#@@@@=    ,==</tspan>
+<tspan x="16" y="367.0">      ,;%@@@:     .=+;+@@@@*;-%@@@@*.@*:      +@@@#-,</tspan>
+<tspan x="16" y="378.0">    =%@@@@#:        :@*-+@@@@@@@@#+=%+         -%@@@@%-</tspan>
+<tspan x="16" y="389.0">    :;-;:.           ;@=,%@@@@@@#,=@#            .:;;:,</tspan>
+<tspan x="16" y="400.0">                      ;+@@@@@@@@@@*=</tspan>
+<tspan x="16" y="411.0">                     +@@@@@+,,+%@@@%.</tspan>
+<tspan x="16" y="422.0">                     ;*%#-.     ,;:</tspan>
+</text>
+</g>
+</g>
+<rect x="0.5" y="0.5" width="984" height="579" fill="none" stroke="#ffffff" stroke-opacity="0.08" rx="12"/>
+<path d="M8 42 V8 H42" fill="none" stroke="#F45C1C" stroke-width="1.2" stroke-linecap="square" stroke-linejoin="miter"/>
+<path d="M943 8 H977 V42" fill="none" stroke="#F45C1C" stroke-width="1.2" stroke-linecap="square" stroke-linejoin="miter"/>
+<path d="M8 538 V572 H42" fill="none" stroke="#F45C1C" stroke-width="1.2" stroke-linecap="square" stroke-linejoin="miter"/>
+<path d="M943 572 H977 V538" fill="none" stroke="#F45C1C" stroke-width="1.2" stroke-linecap="square" stroke-linejoin="miter"/>
+<line x1="390" y1="22" x2="390" y2="558" stroke="#ffffff" stroke-opacity="0.12" stroke-width="1"/>
+<path d="M386 22 H394 M386 558 H394" fill="none" stroke="#F45C1C" stroke-width="1.2" stroke-linecap="square"/>
+<text x="400" y="32" fill="#f4f4f5">
+<tspan x="400" y="32" class="key">$ whoami</tspan><tspan class="cc"> → </tspan><tspan class="value">Cifer</tspan> ——————————————————————————————————————-—-
+<tspan x="400" y="62" class="cc">"Ideas find and claim us; we are merely</tspan>
+<tspan x="400" y="84" class="cc"> their vessels, not their architects."</tspan>
+<tspan x="400" y="114" class="key">&#x26A0;&#xFE0F; Heads up!</tspan><tspan class="value"> These are personal projects.</tspan>
+<tspan x="400" y="136" class="value">One person behind it all, not a company.</tspan>
+<tspan x="400" y="166" class="value">Something broken? Fork it. Fix it.</tspan>
+<tspan x="400" y="188" class="value">If you're here to whine, try Amazon.</tspan>
+<tspan x="400" y="210" class="key">Otherwise, enjoy the ride.</tspan>
+<tspan x="400" y="252"><tspan class="key">Builds</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">ESP32-DIV, nRFBox, RF-Clown, EvilDuck, TamaFi</tspan></tspan>
+<tspan x="400" y="274"><tspan class="key">Radios</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">Wi-Fi, BLE, Sub-GHz</tspan></tspan>
+<tspan x="400" y="296"><tspan class="key">Tools</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">Altium, VSCode, Arduino IDE</tspan></tspan>
+<tspan x="400" y="318"><tspan class="key">Languages</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">C++, C, Python</tspan></tspan>
+<tspan x="400" y="360" class="key">- Contact</tspan> —————————————————————————————————————————————-—-
+<tspan x="400" y="382"><tspan class="key">Email</tspan>:<tspan class="cc"> ............................... </tspan><tspan class="value">CiferTech@gmail.com</tspan></tspan>
+<tspan x="400" y="404"><tspan class="key">Web</tspan>:<tspan class="cc"> ....................................... </tspan><tspan class="value">cifertech.net</tspan></tspan>
+<tspan x="400" y="426"><tspan class="key">YouTube</tspan>:<tspan class="cc"> ...................................... </tspan><tspan class="value">@techcifer</tspan></tspan>
+<tspan x="400" y="448"><tspan class="key">Instagram</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">@cifertech, @thecifer</tspan></tspan>
+<tspan x="400" y="470"><tspan class="key">Telegram</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">@cifertech</tspan></tspan>
+<tspan x="400" y="512" class="key">- GitHub Stats</tspan> ————————————————————————————————————————-—-
+<tspan x="400" y="534"><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> ...... </tspan><tspan class="value" id="repo_data">44</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">44</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> ........ </tspan><tspan class="value" id="star_data">9,986</tspan></tspan>
+<tspan x="400" y="556"><tspan class="key">Commits</tspan>:<tspan class="cc" id="commit_data_dots"> ................... </tspan><tspan class="value" id="commit_data">2,000</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots"> .... </tspan><tspan class="value" id="follower_data">3,258</tspan></tspan>
+</text>
+</svg>
