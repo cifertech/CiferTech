@@ -45,7 +45,6 @@ text, tspan {white-space: pre;}
 </filter>
 </defs>
 <g clip-path="url(#card)">
-<rect width="985" height="580" fill="#f4f4f5"/>
 <ellipse cx="492" cy="-10" rx="420" ry="230" fill="url(#glowTop)">
 <animate attributeName="opacity" values="0.55;1;0.55" dur="7s" repeatCount="indefinite"/>
 </ellipse>
