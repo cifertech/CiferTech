@@ -104,7 +104,7 @@ text, tspan {white-space: pre;}
 <tspan x="400" y="32" class="key">$ whoami</tspan><tspan class="cc"> → </tspan><tspan class="value">Cifer</tspan> ——————————————————————————————————————-—-
 <tspan x="400" y="62" class="cc">"Ideas find and claim us; we are merely</tspan>
 <tspan x="400" y="84" class="cc"> their vessels, not their architects."</tspan>
-<tspan x="400" y="114" class="key">&#x26A0;&#xFE0F; Heads up!</tspan><tspan class="value"> These are personal projects.</tspan>
+<tspan x="400" y="114" class="key">⚠️ Heads up!</tspan><tspan class="value"> These are personal projects.</tspan>
 <tspan x="400" y="136" class="value">One person behind it all, not a company.</tspan>
 <tspan x="400" y="166" class="value">Something broken? Fork it. Fix it.</tspan>
 <tspan x="400" y="188" class="value">If you're here to whine, try Amazon.</tspan>
@@ -120,7 +120,7 @@ text, tspan {white-space: pre;}
 <tspan x="400" y="448"><tspan class="key">Instagram</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">@cifertech, @thecifer</tspan></tspan>
 <tspan x="400" y="470"><tspan class="key">Telegram</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">@cifertech</tspan></tspan>
 <tspan x="400" y="512" class="key">- GitHub Stats</tspan> ————————————————————————————————————————-—-
-<tspan x="400" y="534"><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> ...... </tspan><tspan class="value" id="repo_data">44</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">44</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> ........ </tspan><tspan class="value" id="star_data">9,986</tspan></tspan>
-<tspan x="400" y="556"><tspan class="key">Commits</tspan>:<tspan class="cc" id="commit_data_dots"> ................... </tspan><tspan class="value" id="commit_data">2,000</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots"> .... </tspan><tspan class="value" id="follower_data">3,258</tspan></tspan>
+<tspan x="400" y="534"><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> ...... </tspan><tspan class="value" id="repo_data">44</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">44</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> ........ </tspan><tspan class="value" id="star_data">9,987</tspan></tspan>
+<tspan x="400" y="556"><tspan class="key">Commits</tspan>:<tspan class="cc" id="commit_data_dots"> ..................... </tspan><tspan class="value" id="commit_data">568</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots"> .... </tspan><tspan class="value" id="follower_data">3,259</tspan></tspan>
 </text>
 </svg>
