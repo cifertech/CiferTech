@@ -100,27 +100,27 @@ text, tspan {white-space: pre;}
 <path d="M943 572 H977 V538" fill="none" stroke="#F45C1C" stroke-width="1.2" stroke-linecap="square" stroke-linejoin="miter"/>
 <line x1="397" y1="22" x2="397" y2="558" stroke="#0a0a0b" stroke-opacity="0.14" stroke-width="1"/>
 <path d="M393 22 H401 M393 558 H401" fill="none" stroke="#F45C1C" stroke-width="1.2" stroke-linecap="square"/>
-<text x="412" y="32" fill="#0a0a0b">
-<tspan x="412" y="32" class="key">$ whoami</tspan><tspan class="cc"> → </tspan><tspan class="value">Cifer</tspan> ——————————————————————————————————————-—-
-<tspan x="412" y="62" class="cc">"Ideas find and claim us; we are merely</tspan>
-<tspan x="412" y="84" class="cc"> their vessels, not their architects."</tspan>
-<tspan x="412" y="114" class="key">⚠️ Heads up!</tspan><tspan class="value"> These are personal projects.</tspan>
-<tspan x="412" y="136" class="value">One person behind it all, not a company.</tspan>
-<tspan x="412" y="166" class="value">Something broken? Fork it. Fix it.</tspan>
-<tspan x="412" y="188" class="value">If you're here to whine, try Amazon.</tspan>
-<tspan x="412" y="210" class="key">Otherwise, enjoy the ride.</tspan>
-<tspan x="412" y="252"><tspan class="key">Builds</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">ESP32-DIV, nRFBox, RF-Clown, EvilDuck, TamaFi</tspan></tspan>
-<tspan x="412" y="274"><tspan class="key">Radios</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">Wi-Fi, BLE, Sub-GHz</tspan></tspan>
-<tspan x="412" y="296"><tspan class="key">Tools</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">Altium, VSCode, Arduino IDE</tspan></tspan>
-<tspan x="412" y="318"><tspan class="key">Languages</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">C++, C, Python</tspan></tspan>
-<tspan x="412" y="360" class="key">- Contact</tspan> —————————————————————————————————————————————-—-
-<tspan x="412" y="382"><tspan class="key">Email</tspan>:<tspan class="cc"> ............................... </tspan><tspan class="value">CiferTech@gmail.com</tspan></tspan>
-<tspan x="412" y="404"><tspan class="key">Web</tspan>:<tspan class="cc"> ....................................... </tspan><tspan class="value">cifertech.net</tspan></tspan>
-<tspan x="412" y="426"><tspan class="key">YouTube</tspan>:<tspan class="cc"> ...................................... </tspan><tspan class="value">@techcifer</tspan></tspan>
-<tspan x="412" y="448"><tspan class="key">Instagram</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">@cifertech, @thecifer</tspan></tspan>
-<tspan x="412" y="470"><tspan class="key">Telegram</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">@cifertech</tspan></tspan>
-<tspan x="412" y="512" class="key">- GitHub Stats</tspan> ————————————————————————————————————————-—-
-<tspan x="412" y="534"><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> ...... </tspan><tspan class="value" id="repo_data">44</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">44</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> ........ </tspan><tspan class="value" id="star_data">9,987</tspan></tspan>
-<tspan x="412" y="556"><tspan class="key">Commits</tspan>:<tspan class="cc" id="commit_data_dots"> ..................... </tspan><tspan class="value" id="commit_data">568</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots"> .... </tspan><tspan class="value" id="follower_data">3,259</tspan></tspan>
+<text x="424" y="32" fill="#0a0a0b">
+<tspan x="424" y="32" class="key">$ whoami</tspan><tspan class="cc"> → </tspan><tspan class="value">Cifer</tspan> ——————————————————————————————————————-—-
+<tspan x="424" y="62" class="cc">"Ideas find and claim us; we are merely</tspan>
+<tspan x="424" y="84" class="cc"> their vessels, not their architects."</tspan>
+<tspan x="424" y="114" class="key">⚠️ Heads up!</tspan><tspan class="value"> These are personal projects.</tspan>
+<tspan x="424" y="136" class="value">One person behind it all, not a company.</tspan>
+<tspan x="424" y="166" class="value">Something broken? Fork it. Fix it.</tspan>
+<tspan x="424" y="188" class="value">If you're here to whine, try Amazon.</tspan>
+<tspan x="424" y="210" class="key">Otherwise, enjoy the ride.</tspan>
+<tspan x="424" y="252"><tspan class="key">Builds</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">ESP32-DIV, nRFBox, RF-Clown, EvilDuck, TamaFi</tspan></tspan>
+<tspan x="424" y="274"><tspan class="key">Radios</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">Wi-Fi, BLE, Sub-GHz</tspan></tspan>
+<tspan x="424" y="296"><tspan class="key">Tools</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">Altium, VSCode, Arduino IDE</tspan></tspan>
+<tspan x="424" y="318"><tspan class="key">Languages</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">C++, C, Python</tspan></tspan>
+<tspan x="424" y="360" class="key">- Contact</tspan> —————————————————————————————————————————————-—-
+<tspan x="424" y="382"><tspan class="key">Email</tspan>:<tspan class="cc"> ............................... </tspan><tspan class="value">CiferTech@gmail.com</tspan></tspan>
+<tspan x="424" y="404"><tspan class="key">Web</tspan>:<tspan class="cc"> ....................................... </tspan><tspan class="value">cifertech.net</tspan></tspan>
+<tspan x="424" y="426"><tspan class="key">YouTube</tspan>:<tspan class="cc"> ...................................... </tspan><tspan class="value">@techcifer</tspan></tspan>
+<tspan x="424" y="448"><tspan class="key">Instagram</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">@cifertech, @thecifer</tspan></tspan>
+<tspan x="424" y="470"><tspan class="key">Telegram</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">@cifertech</tspan></tspan>
+<tspan x="424" y="512" class="key">- GitHub Stats</tspan> ————————————————————————————————————————-—-
+<tspan x="424" y="534"><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> ...... </tspan><tspan class="value" id="repo_data">44</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">44</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> ........ </tspan><tspan class="value" id="star_data">9,987</tspan></tspan>
+<tspan x="424" y="556"><tspan class="key">Commits</tspan>:<tspan class="cc" id="commit_data_dots"> ..................... </tspan><tspan class="value" id="commit_data">568</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots"> .... </tspan><tspan class="value" id="follower_data">3,259</tspan></tspan>
 </text>
 </svg>
