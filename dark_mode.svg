@@ -120,7 +120,7 @@ text, tspan {white-space: pre;}
 <tspan x="424" y="448"><tspan class="key">Instagram</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">@cifertech, @thecifer</tspan></tspan>
 <tspan x="424" y="470"><tspan class="key">Telegram</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">@cifertech</tspan></tspan>
 <tspan x="424" y="512" class="key">- GitHub Stats</tspan> ————————————————————————————————————————-—-
-<tspan x="424" y="534"><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> ...... </tspan><tspan class="value" id="repo_data">44</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">44</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> ....... </tspan><tspan class="value" id="star_data">10,122</tspan></tspan>
-<tspan x="424" y="556"><tspan class="key">Commits</tspan>:<tspan class="cc" id="commit_data_dots"> ..................... </tspan><tspan class="value" id="commit_data">574</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots"> .... </tspan><tspan class="value" id="follower_data">3,281</tspan></tspan>
+<tspan x="424" y="534"><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> ...... </tspan><tspan class="value" id="repo_data">44</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">44</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> ....... </tspan><tspan class="value" id="star_data">10,147</tspan></tspan>
+<tspan x="424" y="556"><tspan class="key">Commits</tspan>:<tspan class="cc" id="commit_data_dots"> ..................... </tspan><tspan class="value" id="commit_data">574</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots"> .... </tspan><tspan class="value" id="follower_data">3,287</tspan></tspan>
 </text>
 </svg>
